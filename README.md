@@ -72,8 +72,8 @@ An IP scoring 5+ across multiple independent sources is a high-confidence origin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/verygoosecbadsec/cdnunmasker.git
-cd cdn-unmasker
+git clone https://github.com/verygoodsecbadsec/cdnunmasker.git
+cd cdnunmasker
 ```
 
 ### 2. Install dependencies
