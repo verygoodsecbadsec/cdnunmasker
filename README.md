@@ -13,7 +13,7 @@ $ ./cdn_unmasker.sh example.com --report --nmap
 [+] 847 passive subdomains collected.
 [+] 23 subdomains from DNS brute-force.
 [+] 4 vhosts discovered.
-[+] Historical IPs: 185.220.101.47 37.48.89.12
+[+] Historical IPs: 203.0.113.47 198.51.101.13
 [+] Candidate origin IPs (weighted):
 185.220.101.47   7   historical_dns,ssl_san,spf,asn_mismatch
 37.48.89.12      3   historical_dns,asn_mismatch
